@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+form{
+    width: 500px;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 150px;
+    font-weight: 200;
+    margin-top: 100px;
+}
+/* all input */
+ form input{
+    border: none;
+    background-color: transparent;
+    color: white;
+ }
+ /* all label */
+ form label{
+    display: inline;
+    font-weight: lighter;
+ }
+ /* clas */
+ .Width{
+    width: 500px;
+    color: white;
+    border-color: white;
+                
+ }
+ /* footer signup button */
+ button{
+    padding: 5px 30px;
+    border-radius: 0px;
+
+ }
+
+ .FORM{
+    padding-left: 150px;
+ }
+ 
+ input[type=date]
+ {
+    color: transparent !important;
+ }
+ .active input[type=date]
+ {
+    color: inherit !important;
+ }
+
+    
+ 
